@@ -1,36 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+My Website 
 
-## Getting Started
+Figma Planning 
+https://www.figma.com/board/mjwjX6FVmo5ZegZSouusuk/MY-WEBSITE---PLAN?node-id=0-1&t=CYdMK4jxbafhNH9D-1
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# Welcome to my personal website—a place where I will share more about myself, my passion for UX/UI design, and showcase projects I will have completed, am working on, or have conceptualized through the Ideas page.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+##This website is being built using React and Next.js frameworks to put into practice the skills I've learned over the past two weeks. The primary focus is to create a seamless user experience while highlighting my love for UX/UI design. 
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+User Stories 
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+As a user, I want a seamless navigation experience, ensuring all routes are functioning smoothly.
+As a user, I want to easily navigate between pages via the navbar and return to the homepage effortlessly.
+As a user, I want to click on images on the Obsessions page and be redirected to relevant sub-pages.
+As a user, I want to feel excited and inspired by the design and aesthetics of the site.
+As a user, I want to be able to read, expand, and interact with blog posts on the Ideas page.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+**Target Completion Date:** Friday, 15th September 
+**Development Progress:** Daily live updates and pushes will be made to GitHub until the project is completed.
