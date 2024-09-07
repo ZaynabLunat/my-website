@@ -1,16 +1,9 @@
-import localFont from "next/font/local";
+import { Inter } from "next/font/google";
 import "./globals.css";
+import Link from "next/link";
+import Footer from "./components/footer";
 
-const geistSans = localFont({
-  src: "./fonts/GeistVF.woff",
-  variable: "--font-geist-sans",
-  weight: "100 900",
-});
-const geistMono = localFont({
-  src: "./fonts/GeistMonoVF.woff",
-  variable: "--font-geist-mono",
-  weight: "100 900",
-});
+const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Create Next App",
@@ -20,10 +13,21 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
+      <body className={inter.className}>
+        <header>
+          <h1 class="maintitle">Zaynab Lunat</h1>
+        </header>
+        <nav>
+          {/* <Link href="/">
+            <a>Home</a>{" "}
+          </Link> */}
+          <Link href="/">Homepage</Link>
+          <Link href="/curious">Curious</Link>
+          <Link href="/obsessions">Obsessions</Link>
+          <Link href="/ideas">Ideas</Link>
+        </nav>
         {children}
+        <Footer />
       </body>
     </html>
   );
