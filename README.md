@@ -1,4 +1,4 @@
-# Welcome to my personal website—a place where I will share more about myself, my passion for UX/UI design, and showcase projects I will have completed, am working on, or have conceptualized through the Ideas page.
+# My personal website—a place where I will share more about myself, my passion for UX/UI design, and showcase projects I will have completed, am working on, or have conceptualized through the Ideas page.
 
 ## This website is being built using React and Next.js frameworks to put into practice the skills I've learned over the past two weeks. The primary focus is to create a seamless user experience while highlighting my love for UX/UI design.  
 
