@@ -12,4 +12,3 @@ Figma Planning - https://www.figma.com/board/mjwjX6FVmo5ZegZSouusuk/MY-WEBSITE--
 - As a user, I want to feel excited and inspired by the design and aesthetics of the site.
 - As a user, I want to be able to read, expand, and interact with blog posts on the Ideas page.
 
-**Target Completion Date**: Sunday, 17th September - regular GitHub until the project is completed.
